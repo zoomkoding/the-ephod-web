@@ -1,6 +1,5 @@
-const { NODE_ENV, CONTEXT: NETLIFY_ENV = NODE_ENV } = process.env;
-
 module.exports = {
+  siteMetadata: { siteUrl: 'https://www.the-ephod.com' },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
