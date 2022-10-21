@@ -36,10 +36,13 @@ function Seo() {
           property: 'og:image',
           content: '/og-image.png',
         },
-
         {
           property: `og:type`,
           content: `website`,
+        },
+        {
+          name: `google-site-verification`,
+          content: `LutwK68TugbNvPt-uuIerdXD_fIjInEmmDIYK6Sm9Yo`,
         },
       ]}
     />
