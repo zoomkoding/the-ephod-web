@@ -6,8 +6,8 @@ import EphodBio from '../components/ephod-bio';
 function HomePage() {
   return (
     <Layout>
-      <Seo lang="ko" />
-      <EphodBio lang="ko" />
+      <Seo lang="kr" />
+      <EphodBio lang="kr" />
     </Layout>
   );
 }

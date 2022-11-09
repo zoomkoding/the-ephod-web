@@ -15,7 +15,7 @@ function EphodBio({ lang = 'en' }) {
           ? 'Ephod is a strategy card game based on the Splendor mechanism that supports both Android and iOS.'
           : '에포드는 Android와 iOS를 모두 지원하는 스플렌더 룰 기반 전략 카드 게임 앱입니다.'}
         <div className="app-download-buttons">
-          <a href={`https://apps.apple.com/ko/app/the-ephod/id1633480108`}>
+          <a href={`https://apps.apple.com/kr/app/the-ephod/id1633480108`}>
             <Image src="ios_download_button.png" alt="ios-download" />
           </a>
           <a href="https://play.google.com/store/apps/details?id=com.zoomkoding.ephod">
