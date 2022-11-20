@@ -1,0 +1,3 @@
+google.com, pub-2827068140840250, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
