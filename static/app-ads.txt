@@ -22,3 +22,4 @@ rubiconproject.com, 15268, RESELLER
 synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
 yahoo.com, 59244, RESELLER
 google.com, pub-2827068140840250, DIRECT, f08c47fec0942fa0
+facebook.com, 130192586317846, DIRECT, c3e20eee3f780d68
